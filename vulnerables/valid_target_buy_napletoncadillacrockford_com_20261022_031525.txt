@@ -1,0 +1,5 @@
+Target: buy.napletoncadillacrockford.com
+Found: 2026-10-22T03:15:25.196621
+
+Output:
+CVE-2025-29927 middleware bypass: 403 -> 200

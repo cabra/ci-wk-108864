@@ -1,0 +1,21 @@
+Scan Summary
+============
+Date: 2026-10-22T03:16:45.757201
+Total: 384
+Vulnerable: 1
+Failed: 0
+States: {"dns_or_connect_error": 124, "http_error": 195, "unknown_timeout": 64, "vulnerable": 1}
+Vulnerable registry: vulnerable_targets_registry.txt
+Critical Findings: 1 targets
+
+Vulnerable targets:
+  - app_correaflowproton_cloud_20261022_031515.json
+  - buy_napletoncadillacrockford_com_20261022_031525_mwbypass.json
+  - turyapad_com_20261022_031521.json
+
+
+CRITICAL CRYPTO KEYS FOUND:
+===========================
+
+Target: app.correaflowproton.cloud
+  🔑 DATABASE_URL: [REDACTED]

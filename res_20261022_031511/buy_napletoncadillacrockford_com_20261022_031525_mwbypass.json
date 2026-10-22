@@ -1,0 +1,1 @@
+{"target": "buy.napletoncadillacrockford.com", "scan_time": "2026-10-22T03:15:25.196144", "data": {"platform": "nextjs-middleware-bypass", "cve": "CVE-2025-29927", "env_vars": {}, "env_vars_count": "0", "note": "middleware auth bypassed (403 -> 200)"}}
