@@ -1,0 +1,12 @@
+Scan Summary
+============
+Date: 2026-10-22T13:07:44.139201
+Total: 342
+Vulnerable: 0
+Failed: 0
+States: {"dns_or_connect_error": 71, "http_error": 152, "unknown_timeout": 119}
+Vulnerable registry: vulnerable_targets_registry.txt
+Critical Findings: 0 targets
+
+Vulnerable targets:
+  - www_mxlab_kr_20261022_130625.json
