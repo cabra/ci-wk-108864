@@ -1,0 +1,21 @@
+Scan Summary
+============
+Date: 2026-10-22T11:03:38.197721
+Total: 417
+Vulnerable: 1
+Failed: 0
+States: {"dns_or_connect_error": 144, "http_error": 217, "unknown_timeout": 55, "vulnerable": 1}
+Vulnerable registry: vulnerable_targets_registry.txt
+Critical Findings: 1 targets
+
+Vulnerable targets:
+  - algopartner_rize_exchange_20261022_110210.json
+  - kargoo_fr_20261022_110208.json
+
+
+CRITICAL CRYPTO KEYS FOUND:
+===========================
+
+Target: kargoo.fr
+  🔑 DATABASE_URL: [REDACTED]
+  🔑 REDIS_URL: [REDACTED]
