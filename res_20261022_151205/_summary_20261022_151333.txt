@@ -1,0 +1,12 @@
+Scan Summary
+============
+Date: 2026-10-22T15:13:33.295855
+Total: 368
+Vulnerable: 1
+Failed: 0
+States: {"dns_or_connect_error": 25, "http_error": 262, "unknown_timeout": 80, "vulnerable": 1}
+Vulnerable registry: vulnerable_targets_registry.txt
+Critical Findings: 0 targets
+
+Vulnerable targets:
+  - edgec_io_20261022_151208.json
