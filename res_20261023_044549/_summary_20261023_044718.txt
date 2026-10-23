@@ -1,0 +1,13 @@
+Scan Summary
+============
+Date: 2026-10-23T04:47:18.487790
+Total: 409
+Vulnerable: 1
+Failed: 0
+States: {"dns_or_connect_error": 80, "http_error": 198, "unknown_timeout": 130, "vulnerable": 1}
+Vulnerable registry: vulnerable_targets_registry.txt
+Critical Findings: 0 targets
+
+Vulnerable targets:
+  - agent_vervesys_com_20261023_044552.json
+  - www_novatraxinternational_com_20261023_044557.json
