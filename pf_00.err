@@ -1,3 +1,9 @@
-# progress 10140/10160 674 hosts/s eta 0s
-# progress 10160/10160 338 hosts/s eta 0s
-# prefilter: 65/10160 nextjs (pass2_recovered=3/321, unproven_passed=150, unproven_capped=102)
+# progress 3178/9960 210 hosts/s eta 32s
+# progress 6503/9960 215 hosts/s eta 16s
+Can not load cookies: Illegal cookie name 'GT Orbis_redirect'
+# progress 9805/9960 216 hosts/s eta 0s
+# progress 9960/9960 165 hosts/s eta 0s
+# progress 9960/9960 132 hosts/s eta 0s
+# progress 9960/9960 110 hosts/s eta 0s
+# progress 9960/9960 95 hosts/s eta 0s
+# prefilter: 273/9960 nextjs (pass2_recovered=1/1248, unproven_passed=150, unproven_capped=921)
