@@ -1,67 +1,46 @@
 [dedup] warn: text registry append failed: [Errno 13] Permission denied: '/root/ct_dump/priority_scanned.txt'
-[dedup] on: 454 hosts in (458 probes) -> 41 unseen hosts (41 probes) | skipped 417 already-scanned probes
+[dedup] on: 452 hosts in (456 probes) -> 20 unseen hosts (20 probes) | skipped 436 already-scanned probes
 ======================================================================
 CVE-2025-55182 Batch Scanner — @Haf[redacted]Bot
 ======================================================================
-[*] Targets: 41
+[*] Targets: 20
 [*] Concurrency: 250 | Timeout: 8s
-[*] Output directory: res_20261024_000211
+[*] Output directory: res_20261027_233314
 [*] Telegram: Will send zip when complete
 [*] Vulnerable registry: vulnerable_targets_registry.txt
 ----------------------------------------------------------------------
-[1/41] admin.vbetlithuania.com - http_error
-[2/41] mwww.pojmhgfmhgfedcbaxwvuxwvutonpupnvzr4q3r2qs3n02ruqt1mvm1tv43nr.3210bzm91ce0icu9lvct.123barnystreet.opik.net - dns_or_connect_error
-[3/41] www.www.notexistsyriigf0dbf0db90860977260421086ap-northeast-1.vpce.amazonmap.medellin.onl - dns_or_connect_error
-[4/41] xrvemiou.mttaborpreschool.org - dns_or_connect_error
-[5/41] docs.samplehc.com - http_error
-[6/41] pennsylvaniadc.ph - http_error
-[7/41] www.tiger9443.ph - http_error
-[8/41] livohub.kolivo.org - http_error
-[9/41] area-clienti.nuss-nougat-verschwoerung.de - dns_or_connect_error
-[10/41] www.planencende.online - dns_or_connect_error
-[11/41] trenddailylife0013.sbs - http_error
-[12/41] www.garibel.garifunalearningacademy.com - http_error
-[13/41] net.zoltech.ru - dns_or_connect_error
-[14/41] jobhard.com - http_error
-[15/41] quantalyt.com - http_error
-[16/41] www.timberoakslandscaping.com - dns_or_connect_error
-[17/41] argocd.qa.mpro.greencapehealth.com - http_error
-[18/41] kdex.top - http_error
-[19/41] damai298.com - http_error
-[20/41] devlethaber.com.tr - http_error
-[21/41] dekalbrestoration.com - http_error
-[22/41] amp.turkporno.click - unknown_timeout
-[23/41] www.staging.uat.dev.static.scanner4you.com - http_error
-[24/41] 4www.3duyyoabndnw3q59aila3ycz4x9.cse.casl.cal.msu.edu - http_error
-[25/41] d34be91f137c878b7ffdfd93.netcraze.io - unknown_timeout
-[26/41] kosmetische-zahnkorrektur.de - unknown_timeout
-[27/41] livedrawhongkong.live - unknown_timeout
-[28/41] admin.zenma.top - unknown_timeout
-[29/41] landing.xn--shoppingbrse-djb.com - unknown_timeout
-[30/41] trustpathway.pro - unknown_timeout
-[31/41] dcno.com - unknown_timeout
-[32/41] device-2aa67224-91bd-442e-95bb-c654fcfbccc8.remotewd.com - unknown_timeout
-[33/41] report.k8s.kyp.stg.cerc.com - unknown_timeout
-[34/41] cohttwebmail.youandco.com.au - unknown_timeout
-[35/41] notexistsstaging.beritamedan.com - unknown_timeout
-[36/41] instructor.cryptopedia.co.id - unknown_timeout
-[37/41] alerazius1980.freeboxos.fr - unknown_timeout
-[38/41] www.adultxxxvids.com - unknown_timeout
-[39/41] dpppan.direct.quickconnect.to - unknown_timeout
-[40/41] 3e2uz26aalwfhi7k.myfritz.net - unknown_timeout
-[41/41] k4xevwqqkp8y12ww.myfritz.net - unknown_timeout
+[1/20] cf6ca59e.sni.cloudflaressl.com - dns_or_connect_error
+[2/20] www.xn--sprimgglobalmil-gkb.ph - http_error
+[3/20] zero-ui.srv10.innvision.cc - dns_or_connect_error
+[4/20] ponmlkjihgwww.badcbanotexists7614anamtstaging.wwwapp.37.27.88.135.dyn.tcadmin.net - dns_or_connect_error
+[5/20] www.unihertz.it - http_error
+[6/20] test.lovebeetsusa.net - http_error
+[7/20] iixi.cc - http_error
+[8/20] burninglovebendigo.com - http_error
+[9/20] www.evasevents.com - dns_or_connect_error
+[10/20] backend.drpujabalchandani.com - dns_or_connect_error
+[11/20] www.73a2370016b7.kayakspecialists.antimoney-laundering.org - dns_or_connect_error
+[12/20] www.analytics.anysubscriber.net - unknown_timeout
+[13/20] 15.101.nni.net - unknown_timeout
+[14/20] chehuan.cn - unknown_timeout
+[15/20] 65backend.admin.www.www.www.www.35-204-139-184.sslip.io - unknown_timeout
+[16/20] www.hgbahgfadmin.adminer.dotsgroup.euuat.wwwtkdev.35-204-139-184.sslip.io - unknown_timeout
+[17/20] device-local-70e04769-ef11-402f-a7bd-c996071e3575.remotewd.com - unknown_timeout
+[18/20] www.3tggrrherfuckingnigger.151.80.60.23.sslip.io - unknown_timeout
+[19/20] moodularoffice.direct.quickconnect.to - unknown_timeout
+[20/20] mta-sts.dizerens.org - unknown_timeout
 
 ======================================================================
 [*] Scan complete!
-    Total scanned: 41
+    Total scanned: 20
     Vulnerable: 0
     Failed: 0
-[+] Results saved in: res_20261024_000211
+[+] Results saved in: res_20261027_233314
 
 [*] Analyzing results...
     Found 0 targets with critical keys
-[+] Summary saved: res_20261024_000211/_summary_20261024_000332.txt
+[+] Summary saved: res_20261027_233314/_summary_20261027_233434.txt
 
 [*] Zipping results folder...
-    Created: res_20261024_000211.zip (0.0 MB)
+    Created: res_20261027_233314.zip (0.0 MB)
     Telegram delivery disabled by default (set SEND_TELEGRAM=1 to send raw result zip)
